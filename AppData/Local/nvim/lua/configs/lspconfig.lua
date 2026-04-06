@@ -16,7 +16,7 @@ local servers = {
       },
     },
   },
-  ["rust-analyzer"] = {},
+  rust_analyzer = {},
 }
 
 -- powershell
